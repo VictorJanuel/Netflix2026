@@ -29,7 +29,7 @@
 
                 <div class="form-group">
                     <label for="email2">Valider l'adresse mail</label>
-                    <input type="email" id="email2" name="email" placeholder="exemple@mail.com" required>
+                    <input type="email" id="email2" name="email2" placeholder="exemple@mail.com" required>
                 </div>
 
                 <div class="form-group">
